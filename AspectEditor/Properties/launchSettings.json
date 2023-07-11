@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AspectEditor": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
